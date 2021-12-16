@@ -1,0 +1,45 @@
+.products {
+  
+}
+.products a {
+ text-decoration: none;
+}
+.product1 {
+  height: 100vh;
+ background:#000;
+}
+.product2 {
+  background: orange;
+  height: 100vh;
+}
+
+
+
+
+
+
+
+
+footer {
+  padding: 10px;
+  padding-bottom: 18px;
+  background: #202426d8;
+}
+footer a {
+  text-decoration: none;
+  color: #fff;
+}
+footer .links {
+  display: flex;
+  flex-direction: column;
+  padding: 10px 0;
+}
+footer .quick-links {
+  padding: 10px 0;
+}
+footer .quick-links a {
+  padding-right: 10px;
+}
+.copyright {
+  color: #fff;
+}
